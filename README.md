@@ -2,7 +2,9 @@
 
 Welcome to **Whiskers & Boba**, a tiny boba café run by cats.
 
-I made this project for **Boba Bash** because I really enjoy coding and I also have a cat, so I thought combining the two would be fun. I wanted to make something that felt like more than just a basic webpage with its own little characters and personality.
+I made this project for Boba Bash because I really enjoy coding and I also have a cat, so I thought combining the two would be fun. I wanted to make something that felt like more than just a basic webpage with its own little characters and personality.
+Check the deployed website on Netlify!!
+https://whiskers-and-boba.netlify.app/
 
 ## About the Project
 
